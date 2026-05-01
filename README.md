@@ -6,36 +6,40 @@ Currently working on enterprise HMIS, EMR systems, Doctor Dashboards, Billing Pl
 
 ## What I Work With
 
-- React
-- Next.js
-- NestJS
-- TypeScript
-- MongoDB
-- Go
-- AI/ML Exploration
-- System Design
-- Product Architecture
+* React
+* Next.js
+* NestJS
+* TypeScript
+* MongoDB
+* Go
+* AI/ML Exploration
+* System Design
+* Product Architecture
 
 ## Current Focus
 
-- Building BookCompass (Intelligent Reading Decision Engine)
-- Daily LeetCode consistency
-- Portfolio website
-- Scalable backend architecture with Go
+* Building BookCompass (Intelligent Reading Decision Engine)
+* Daily LeetCode consistency
+* Portfolio website
+* Scalable backend architecture with Go
 
 ## Featured Work
 
 ### BookCompass
+
 Outcome-based intelligent reading decision engine
 
 ### Augastam HMIS
+
 Enterprise healthcare platform for EMR, Billing, IP workflows, Doctor Dashboard, LMS
 
 ### Squmed AI
+
 AI-assisted healthcare automation platform
 
 ## Connect With Me
 
-LinkedIn: your-link  
-LeetCode: your-link  
-Portfolio: coming soon
+LinkedIn: https://www.linkedin.com/in/bikram-kumar-jena
+GitHub: https://github.com/vixoticdev
+LeetCode: https://leetcode.com/u/vixoticdev/
+Portfolio: Coming Soon
