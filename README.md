@@ -39,7 +39,7 @@ AI-assisted healthcare automation platform
 
 ## Connect With Me
 
-LinkedIn: https://www.linkedin.com/in/bikram-kumar-jena
-GitHub: https://github.com/vixoticdev
-LeetCode: https://leetcode.com/u/vixoticdev/
-Portfolio: Coming Soon
+- LinkedIn: https://www.linkedin.com/in/bikram-kumar-jena
+- GitHub: https://github.com/vixoticdev
+- LeetCode: https://leetcode.com/u/vixoticdev/
+- Portfolio: Coming Soon
