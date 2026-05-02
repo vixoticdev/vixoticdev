@@ -35,11 +35,13 @@ Currently working on enterprise HMIS, EMR systems, Doctor Dashboards, Billing Pl
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.shion.dev/api?username=vixoticdev&theme=calm&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-stats.shion.dev/api?username=vixoticdev&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=vixoticdev&theme=dark&hide_border=false)<br/><br/>
+<center>
+  
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=vixoticdev&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+</center>
 
-![](https://streak-stats.demolab.com/?user=vixoticdev&theme=calm&hide_border=false)
-
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=vixoticdev&theme=calm&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 </td>
 </tr>
