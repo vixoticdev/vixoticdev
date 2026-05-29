@@ -84,7 +84,7 @@ https://squmed.squbix.com/
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bikram-kumar-jena) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bikramjena2024@gmail.com) 
 * Email: [bikramjena2024@gmail.com](mailto:bikramjena2024@gmail.com)
 * LinkedIn: https://www.linkedin.com/in/bikram-kumar-jena
-* Personal GitHub: https://github.com/vixoticdev
+* Personal GitHub: https://github.com/vixotic
 * Work GitHub: https://github.com/BikramJena24
 * LeetCode: https://leetcode.com/u/vixoticdev/
 * Portfolio: Coming Soon
