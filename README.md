@@ -1,4 +1,16 @@
-# Hi, I'm Bikram Kumar Jena 👋
+<h1 align="center">Bikram Jena</h1>
+
+<h3 align="center">
+Building Healthcare Systems • AI Workflows • High-Performance Frontends
+</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Full+Stack+Engineer;React+%2B+NestJS+Architect;Healthcare+Platform+Builder;AI+Workflow+Engineer;Performance+Optimization+Enthusiast" />
+</p>
+
+---
+
+## Currently Building
 <table>
 <tr>
 <td width="55%" valign="top">
@@ -84,4 +96,4 @@ https://squmed.squbix.com/
 * Personal GitHub: https://github.com/vixotic
 * Work GitHub: https://github.com/BikramJena24
 * LeetCode: https://leetcode.com/u/vixoticdev/
-* Portfolio: Coming Soon
+* Portfolio: https://vixotic.in
