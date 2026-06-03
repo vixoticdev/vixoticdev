@@ -9,8 +9,6 @@ Building Healthcare Systems • AI Workflows • High-Performance Frontends
 </p>
 
 ---
-
-## Currently Building
 <table>
 <tr>
 <td width="55%" valign="top">
